@@ -1,0 +1,21 @@
+.pet-filter-container {
+    min-inline-size: 165px;
+    width: 20%;
+}
+
+.filter-container {
+    /* text-align: center; */
+
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    padding-inline-start: 10px;
+    /* justify-content: start; */
+}
+
+.form-select {
+    width: 80%;
+    margin-block-start: 5px;
+    /* margin: 0 auto; */
+    padding: 0.75rem;
+}
